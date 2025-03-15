@@ -1,0 +1,1 @@
+Okay, I'm ready for the tracker XML. Please provide the complete, validated project tracker in the GenStack NextOnPages Tracker Format (XML), and I will then generate the code for `src/app/page.tsx`.
